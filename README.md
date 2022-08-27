@@ -28,3 +28,5 @@ export default defineConfig({
   },
 });
 ```
+
+To run the tests run `yarn cypress`, or `yarn cypress:ci` to keep things in the terminal.
